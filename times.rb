@@ -1,7 +1,13 @@
+require 'pry'
+
 def using_times
-	#your code here
+  # binding.pry 
+  7.times do
+    puts "Wingardium Leviosa"
+  end
 end
 
+using_times
 
 
 
